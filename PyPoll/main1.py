@@ -66,7 +66,7 @@ with open(text_path, 'w') as file:
     file.write("--------------------\n")
     file.write(voter_output)
     file.write("--------------------\n")
-    file.write("Winner")
+    file.write("Winner : ")
     file.write(winner)
     file.write("--------------------\n")
     
